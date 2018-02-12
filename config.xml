@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[Put your id here]"
-        versionCode = "10" 
-        version     = "1.0.0" >
+        id          = "World's Hardest quiz phone version.Parker_Savage.edu.mit.scratch"
+        versionCode = "1"
+        version     = "0.1.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>[World's Hardest Quiz]</name>
 
     <description>
-        An app made using Scratch, GitHub, and PhoneGap.
+        A very simple quiz, not very many questions. How many questions can you get right?! It is pretty complicated, impress your friends with how far you can get!!!
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
-        [Your Username]
+    <author href="http://scratch.mit.edu/users/Parker_Savage" email"=kerrysavage.parker@gmail.com">
+        [Parker_Savage]
     </author>
 
 </widget>
